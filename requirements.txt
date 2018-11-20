@@ -1,0 +1,8 @@
+nltk==3.3
+pymessenger==0.0.7.0
+fbmq==2.5.0
+praw==6.0.0
+Flask==1.0.2
+tldextract==2.2.0
+gunicorn==19.9.0
+git+https://github.com/grangier/python-goose.git#168
